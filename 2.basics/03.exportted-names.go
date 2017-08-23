@@ -1,3 +1,5 @@
+// https://tour.golang.org/basics/3
+// Exported names
 package main
 
 import (

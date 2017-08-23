@@ -1,3 +1,5 @@
+// https://tour.golang.org/basics/2
+// Imports
 package main
 
 import (
